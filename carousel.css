@@ -205,6 +205,10 @@ body {
   text-decoration: none;
 }
 
+.text-tag {
+  margin-right: 10px;
+}
+
 /* Icons */
 
 .material-symbols-outlined {
